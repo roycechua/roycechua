@@ -4,7 +4,7 @@ Hi 👋 My name is Royce Chua
 React Native Developer | Mobile and Web App Developer
 -------------------------------------------------
 
-I started programming during High School with C then got attracted to Python for Web Development during college and eventually stuck with Javascript using React Native and Node.js for my OJT and professional career. I also did some stuff Arduino and Raspberry Pi during my college and as a hobby.* 🌍  I'm based in Philippines* ✉️  You can contact me at [roycechua.work@gmail.com](mailto:roycechua.work@gmail.com)* 🧠  I'm learning Nest JS, new React Native libraries* 🤝  
+I started programming during High School with C then got attracted to Python for Web Development during college and eventually stuck with Javascript using React Native and Node.js for my OJT and professional career. I also did some stuff Arduino and Raspberry Pi during my college and as a hobby.* 🌍  I'm based in the Philippines* ✉️  You can contact me at [roycechua.work@gmail.com](mailto:roycechua.work@gmail.com)* 🧠  I'm learning Nest JS, new React Native libraries* 🤝  
 
 ### Skills
 
